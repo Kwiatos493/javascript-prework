@@ -25,3 +25,5 @@ function getMoveName(argMoveId){
 function displayResult(argComputerMove, argPlayerMove){
 	printMessage('Zagrałem ' + argComputerMove + ', a Ty ' + argPlayerMove);
   }
+
+  function playGame(){ }
